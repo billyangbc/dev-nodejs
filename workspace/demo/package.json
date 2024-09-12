@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "nodejs demo",
+  "author": "Bill <bill@example.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+ "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
